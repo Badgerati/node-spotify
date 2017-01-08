@@ -1,0 +1,23 @@
+{
+  "name": "node-spotify",
+  "version": "1.0.0",
+  "author": "Matthew Kelly <badgerati42@gmail.com>",
+  "description": "Spotify node module to control a local instance of Spotitfy, and use the external API",
+  "main": "spotify.js",
+  "license": "MIT",
+  "keywords": [
+      "spotify",
+      "api",
+      "local",
+      "external",
+      "control",
+      "client",
+      "web",
+      "gui"
+  ],
+  "dependencies": {
+    "request": "^2.79.0",
+    "https": "^1.0.0",
+    "querystring": "^0.2.0"
+  }
+}
